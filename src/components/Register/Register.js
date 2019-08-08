@@ -28,7 +28,7 @@ class Register extends React.Component {
         if(!email || !name || !password){
             alert('Please fill in the form correctly.');
         } else {
-            fetch('http://localhost:3001/register', {
+            fetch('https://facedetector-backend.herokuapp.com/register', {
             method: 'post',
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify({

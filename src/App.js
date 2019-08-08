@@ -70,7 +70,7 @@ class App extends Component{
   } 
 
   onButtonSubmit = () => {
-    fetch('http://localhost:3001/apicall', {
+    fetch('https://facedetector-backend.herokuapp.com/apicall', {
       method: 'post',
           headers: {'Content-Type': 'application/json'},
           body: JSON.stringify({
@@ -80,7 +80,7 @@ class App extends Component{
     .then(response => response.json())
     .then(response => {
       if(!(response === 'unable to make an API call')) {
-        fetch('http://localhost:3001/image', {
+        fetch('https://facedetector-backend.herokuapp.com/image', {
           method: 'put',
           headers: {'Content-Type': 'application/json'},
           body: JSON.stringify({
