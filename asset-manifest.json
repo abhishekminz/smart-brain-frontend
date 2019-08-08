@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/facedetector-frontend/static/css/main.8fb7431b.chunk.css",
+    "main.js": "/facedetector-frontend/static/js/main.6945097d.chunk.js",
+    "main.js.map": "/facedetector-frontend/static/js/main.6945097d.chunk.js.map",
+    "runtime~main.js": "/facedetector-frontend/static/js/runtime~main.1ec1507e.js",
+    "runtime~main.js.map": "/facedetector-frontend/static/js/runtime~main.1ec1507e.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/facedetector-frontend/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.31375f3c.chunk.js": "/facedetector-frontend/static/js/2.31375f3c.chunk.js",
+    "static/js/2.31375f3c.chunk.js.map": "/facedetector-frontend/static/js/2.31375f3c.chunk.js.map",
+    "index.html": "/facedetector-frontend/index.html",
+    "precache-manifest.ec23f449fcfe6c054c04c268e75abb60.js": "/facedetector-frontend/precache-manifest.ec23f449fcfe6c054c04c268e75abb60.js",
+    "service-worker.js": "/facedetector-frontend/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/facedetector-frontend/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.8fb7431b.chunk.css.map": "/facedetector-frontend/static/css/main.8fb7431b.chunk.css.map"
+  }
+}
